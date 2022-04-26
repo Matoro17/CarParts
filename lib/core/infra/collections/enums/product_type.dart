@@ -1,0 +1,1 @@
+enum ProductType { oil, filter }
